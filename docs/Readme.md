@@ -76,7 +76,7 @@ The API responds with a JSON object containing the status and a unique request I
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "Invalid request. Please check the prompt and image_url fields."
 }
 ```
@@ -85,7 +85,7 @@ The API responds with a JSON object containing the status and a unique request I
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "Invalid or missing authentication token."
 }
 ```
@@ -94,7 +94,7 @@ The API responds with a JSON object containing the status and a unique request I
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "An unexpected error occurred. Please try again later."
 }
 ```
@@ -168,7 +168,7 @@ The API responds with a JSON object containing the status, video URL (if ready),
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "Request ID not found. Please check the ID and try again."
 }
 ```
@@ -177,7 +177,7 @@ The API responds with a JSON object containing the status, video URL (if ready),
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "Invalid or missing authentication token."
 }
 ```
@@ -186,7 +186,7 @@ The API responds with a JSON object containing the status, video URL (if ready),
 
 ```json
 {
-  "status": "error",
+  "status": "failed",
   "message": "An unexpected error occurred. Please try again later."
 }
 ```
