@@ -147,7 +147,6 @@ The API responds with a JSON object containing the status, video URL (if ready),
   "metadata": {
     "prompt": "A futuristic city with flying cars",
     "image_url": "https://example.com/images/sample.jpg",
-    "video_duration": 10,
     "creation_time": "2025-01-22T12:34:56Z"
   }
 }
@@ -160,7 +159,6 @@ The API responds with a JSON object containing the status, video URL (if ready),
 | metadata           | Object | Additional information about the generated video (if completed). |
 | metadata.prompt    | String | The original prompt provided in the request.   |
 | metadata.image_url | String | The input image URL provided in the request.    |
-| metadata.video_duration | Integer | Duration of the generated video (in seconds). |
 | metadata.creation_time | String | Timestamp of when the video was created (ISO 8601 format). |
 
 #### Error Response
