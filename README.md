@@ -12,7 +12,10 @@ Open API for NeuroLens framework
 
 **See :point_right: [API Document](./docs/Readme.md) :point_left:  for more details!**
 
-**:fire::fire::fire:We will release full functional API soon! Stay tuned! :rocket::rocket::rocket:**
+## [UPDATE] 01/23,2025
+
+**We have opened API trial applications, please fill out the [Waitlist Form](https://forms.gle/nYwaYnJckf2usqFe8) to apply for permission!** :fire::fire::fire::rocket::rocket::rocket:**
+
 
 ## System Architecture
 ![System Architecture](./docs/system.png "System Architecture")
