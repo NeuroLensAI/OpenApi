@@ -14,7 +14,7 @@ Open API for NeuroLens framework
 
 ## [UPDATE] 01/23,2025
 
-**We have opened API trial applications, please fill out the [Waitlist Form](https://forms.gle/nYwaYnJckf2usqFe8) to apply for permission!** :fire::fire::fire::rocket::rocket::rocket:**
+**We have opened API trial applications, please fill out the [Waitlist Form](https://forms.gle/nYwaYnJckf2usqFe8) to apply for permission!** :fire::fire::fire::rocket::rocket::rocket:
 
 
 ## System Architecture
